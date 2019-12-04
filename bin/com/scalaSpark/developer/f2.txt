@@ -1,0 +1,1 @@
+The core of Apache Hadoop consists of storage part known as Hadoop Distributed File system (HDFS) and processing part called MapReduce. Hadoop split files into large blocks and distributed them across the nodes in a cluster. To process data, Hadoop transfers packaged code for nodes to process in parallel based in the date that needs to be processed 

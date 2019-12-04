@@ -1,0 +1,1 @@
+This approach takes advantage of data locality node manipulating the data they have access to allow the dataset to be processed faster and most efficiently than it would be in a more conventional super computer architecture that relays in parallel file system where the computation and data is distributed via high speed networking

@@ -1,0 +1,6 @@
+first,last,salary
+Amit,Jain,100000
+Lokesh,jumar,250000
+Rajini,venkat,150000
+Rahul,Yadav,120000
+Mithun,kale,200000

@@ -1,0 +1,6 @@
+first,last,technology
+Amit,Jain,java
+Lokesh,jumar,spark
+Rajini,venkat,hadoop
+Rahul,Yadav,scala
+Mithun,kale,unix

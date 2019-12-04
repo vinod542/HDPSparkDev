@@ -1,0 +1,1 @@
+Apache Hadoop is an open-source software framework written in java for distributed storage and distributed processing of very large data sets on computer cluster built for commodity hardware.All the modules in the Hadoop are designed with a fundamental assumption that hardware failures are common and should be automatically handled by framework

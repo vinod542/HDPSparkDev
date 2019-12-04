@@ -1,0 +1,13 @@
+Sales,Lead,32000,AP
+Sales,Lead,32000,UP
+Sales,Lead,32000,AP
+Sales,Lead,32000,LN
+Sales,Lead,32000,AP
+Sales,Lead,32000,AP
+Sales,Lead,32000,TN
+Sales,Lead,33000,MO
+Sales,Lead,30000,MO
+Sales,Lead,31000,CA
+Marketing,Associate,18000,TN
+Marketing,Associate,18000,TN
+HR,Manager,58000,LA
